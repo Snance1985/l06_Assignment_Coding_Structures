@@ -1,0 +1,41 @@
+body {
+    background-color: #30638e;
+    font-family: 'Roboto Mono', monospace
+}
+
+#content {
+    text-align: center;
+    background-color: #00798c;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 10px;
+    width: 375px;
+    margin: 10% auto 10% auto;
+}
+
+#form{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+#thish1{
+    color: #edae49;
+}
+
+.labels{
+    display: block;
+    color: #edae49;
+}
+
+#mybutton{
+    margin: 5px;
+    border-radius: 10px;
+    background-color: #003D5B;
+    color:white;
+}
+
+#mybutton:hover{
+    background-color: #D1495B;
+    border-radius: 15px;
+}
